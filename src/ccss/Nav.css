@@ -1,0 +1,8 @@
+li{
+    padding-left: 20px;
+}
+.navbar-brand{padding-left:20px;padding-right: 100px;}
+li:hover{
+    font-weight: 500;
+    color: rgb(113, 202, 177);
+}

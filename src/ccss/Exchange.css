@@ -1,0 +1,31 @@
+*{width:100%;}
+#maintemp{
+    display: flex;
+    padding: 0px auto;
+    padding-left: 450px;
+    height: 250%;   
+    width: 150%;    
+}
+.card-body{
+    padding: 30px auto;
+    position: inherit;
+    width: 90%;
+    height: 150%;
+    line-height: 30px;
+}
+.card-body:hover{
+    border: white 0.2px solid;
+}
+
+.form-select,.input-group, .input-group-text{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+
+.btn{
+    margin: 0px auto;
+    margin-bottom: 30px;
+    width: 30%;
+    background-color: green;
+}
+.form-control{margin-bottom: 10px;}

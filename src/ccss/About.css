@@ -1,0 +1,9 @@
+*{
+    margin: 0px;
+
+}
+.heading{
+    margin: 50px auto 30px 20px;
+    display: inline;
+}
+.heading:hover{border-bottom:solid 2px blue;display: inline;}
